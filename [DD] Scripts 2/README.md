@@ -1,2 +1,0 @@
-# microbiologics
-Deloitte Microbiologics Development
